@@ -18,7 +18,7 @@ https://simpleicons.org/
 
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Nilotpal Basu</strong></samp></h2>
-<h3 align='center'><strong>## About me</strong></h3>
+<h3 align='center'><strong> About me</strong></h3>
 
 - 👨‍💻 I am currently studying B.Tech in CSE at Kalinga Institute Of Industrial Technology
 - 📚 Every day I keep learning about Frontend and Backend technologies 😅
