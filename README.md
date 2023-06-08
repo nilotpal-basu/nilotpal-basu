@@ -21,7 +21,7 @@ https://simpleicons.org/
 <h3 align='center'><strong> About me</strong></h3>
 
 - 👨‍💻 I am currently studying B.Tech in CSE at Kalinga Institute Of Industrial Technology
-- 📚 Every day I keep learning about Frontend and Backend technologies 😅
+- 📚 Every day I keep learning about programming 😅
 - 💪🏼 New objectives: Learn more and not stop developing ideas.
 - ⚡ Curious data: I love to play Games.
 
