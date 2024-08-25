@@ -38,7 +38,7 @@ https://simpleicons.org/
 
 🧐 **Knowledge of:**<br>
 
- `Object-Oriented Programming`, `Data Structures and Algorithms`.
+ `Object-Oriented Programming`, `Data Structures and Algorithms`, `Machine Learning`, `Deep Learning`.
 
 
 </br>
