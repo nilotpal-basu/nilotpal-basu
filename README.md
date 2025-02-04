@@ -16,7 +16,7 @@ https://simpleicons.org/
 - 👨‍💻 I am currently studying B.Tech in CSE at Kalinga Institute Of Industrial Technology
 - 📚 Every day I keep learning about programming 😅
 - 💪🏼 New objectives: Learn more and not stop developing ideas.
-- ⚡ Curious data: I love to play Games.
+- ⚡ I love to play Games.
 
 ---
  
